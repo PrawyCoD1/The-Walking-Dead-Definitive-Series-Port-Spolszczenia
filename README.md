@@ -95,7 +95,7 @@ Prawy - tłumaczenie, technikalia, testy
 
 
 SPECJALNE PODZIĘKOWANIA DLA:
-Norek - za zgodę w użyciu waszych spolszczeń
+Norek - za zgodę w użyciu waszych spolszczeń\n
 mziab - za pomoc w skonfigurowaniu pod CAT
 Luigi Auriemma - za stworzenie narzędzia ttarchext
 MerlinSVK - za stworzenie narzędzia w celu exportu i importu czcionek
