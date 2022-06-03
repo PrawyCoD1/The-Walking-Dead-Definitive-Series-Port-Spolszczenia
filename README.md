@@ -6,15 +6,15 @@ Jest to mod, portujący spolszczenia z pierwotnych gier Telltale Games: TWD S1,S
 
 UWAGA!!!
 W porcie spolszczenia mogą wystąpic nieprzetłumaczone teksty, brak tekstu w niektórych miejscach, błednie wyświetlany tekst(niezgodny z tym co się dzieje w fabule.) Wszystkie tego rodzaju błędy proszę o zgłaszanie w formie screenshota z krótkim opisie w jakim sezonie oraz odcinku dany błąd występuję, może być to również film. 
-Kontakt:
-Discord: Prawy#3490
-Forum GPP: https://grajpopolsku.pl/forum/memberlist.php?mode=viewprofile&u=14594
-Github: https://github.com/PrawyCoD1/
-Steam: https://steamcommunity.com/profiles/76561198055615111
+## Kontakt:
+- Discord: Prawy#3490
+- Forum GPP: https://grajpopolsku.pl/forum/memberlist.php?mode=viewprofile&u=14594
+- Github: https://github.com/PrawyCoD1/
+- Steam: https://steamcommunity.com/profiles/76561198055615111
 
 Autorzy:
 
-- Sezon 1 DEFINITIVE EDITION:
+Sezon 1 DEFINITIVE EDITION:
 - Norek - Tłumaczenie i korekta i testy;
 - Johnny - Obsługa techniczna i testy;
 - Manuel Czaszka - Grafiki, tłumaczenie i testy;
@@ -34,8 +34,7 @@ Autorzy:
 - destroytheardor, CyDiPL, config, Michał W - inne;
 - Prawy - Port tłumaczeń, grafiki, polskie czcionki, technikalia, testy
 
-- Sezon 2 DEFINITIVE EDITION:
-Autorzy:
+Sezon 2 DEFINITIVE EDITION:
 - GimmyBreaker – tłumaczenie, grafiki, czcionka, narzędzia, technikalia, testy
 - Norek – tłumaczenie, korekta, testy
 - Kasica – tłumaczenie
@@ -52,7 +51,7 @@ Autorzy:
 - roobin – narzędzia
 - Prawy - Port tłumaczeń, grafiki, polskie czcionki, technikalia, testy
 
-- Sezon 3 DEFINITIVE EDITION:
+Sezon 3 DEFINITIVE EDITION:
 - Norek – tłumaczenie, korekta, testy
 - Talaith – tłumaczenie, korekta
 - Hubert „Sniqs” Życiński – tłumaczenie
@@ -68,8 +67,7 @@ Autorzy:
 - cienislaw – technikalia
 - Prawy - Port tłumaczeń, grafiki, polskie czcionki, technikalia, testy
 
-- Sezon 4 DEFINITIVE EDITION:
-Autorzy:
+Sezon 4 DEFINITIVE EDITION:
 - Norek – tłumaczenie, korekta, testy
 - Izzie – tłumaczenie, korekta, testy
 - Fenlisek – tłumaczenie, korekta
@@ -82,7 +80,7 @@ Autorzy:
 - mziab – przystosowanie do CAT
 - Prawy - Port tłumaczeń, technikalia
 
-- Michonne DEFINITIVE EDITION:
+Michonne DEFINITIVE EDITION:
 - Norek – tłumaczenie, korekta, testy
 - Izzie – tłumaczenie, korekta, testy
 - Quo – tłumaczenie
@@ -98,7 +96,7 @@ Autorzy:
 - mziab – administracja repozytorium, pomoc w konfiguracji oprogramowania CAT
 - Prawy - Port tłumaczeń, grafiki, polskie czcionki, technikalia, testy
 
-- DEFINITIVE MENU:
+DEFINITIVE MENU:
 - Prawy - tłumaczenie, technikalia, testy
 
 
