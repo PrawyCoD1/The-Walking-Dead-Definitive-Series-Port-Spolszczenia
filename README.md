@@ -6,6 +6,9 @@ Jest to mod, portujący spolszczenia z pierwotnych gier Telltale Games: TWD S1,S
 
 UWAGA!!!
 W porcie spolszczenia mogą wystąpic nieprzetłumaczone teksty, brak tekstu w niektórych miejscach, błednie wyświetlany tekst(niezgodny z tym co się dzieje w fabule.) Wszystkie tego rodzaju błędy proszę o zgłaszanie w formie screenshota z krótkim opisem w jakim sezonie oraz odcinku dany błąd występuję, może być to również film. 
+
+W ostatnim sezonie nie ma spolszczonych grafik!!!
+
 ## Kontakt:
 - Discord: Prawy#3490
 - Forum GPP: https://grajpopolsku.pl/forum/memberlist.php?mode=viewprofile&u=14594
