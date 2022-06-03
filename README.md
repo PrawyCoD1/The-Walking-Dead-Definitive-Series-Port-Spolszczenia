@@ -24,7 +24,7 @@ Wuuu - Testy;
 Rolender - Testy;
 gibik - Testy;
 destroytheardor, CyDiPL, config, Michał W - inne;
-Prawy - Port tłumaczeń, grafiki, polskie czcionki, technikalia
+Prawy - Port tłumaczeń, grafiki, polskie czcionki, technikalia, testy
 
 - Sezon 2 DEFINITIVE EDITION:
 Autorzy:
@@ -42,7 +42,7 @@ Kazu – testy
 Kubson – grafiki
 Manuel Czaszka – grafiki
 roobin – narzędzia
-Prawy - Port tłumaczeń, grafiki, polskie czcionki, technikalia
+Prawy - Port tłumaczeń, grafiki, polskie czcionki, technikalia, testy
 
 - Sezon 3 DEFINITIVE EDITION:
 Norek – tłumaczenie, korekta, testy
@@ -58,7 +58,7 @@ MasterAlvaro – polskie fonty
 Michał Rzeźnik – grafiki
 Patryk Górski – grafiki do instalatora
 cienislaw – technikalia
-Prawy - Port tłumaczeń, grafiki, polskie czcionki, technikalia
+Prawy - Port tłumaczeń, grafiki, polskie czcionki, technikalia, testy
 
 - Sezon 4 DEFINITIVE EDITION:
 Autorzy:
@@ -88,7 +88,10 @@ Talaith – tłumaczenie
 Patryk Górski – fonty, grafiki
 cienislaw – technikalia
 mziab – administracja repozytorium, pomoc w konfiguracji oprogramowania CAT
-Prawy - Port tłumaczeń, grafiki, polskie czcionki, technikalia
+Prawy - Port tłumaczeń, grafiki, polskie czcionki, technikalia, testy
+
+- DEFINITIVE MENU:
+Prawy - tłumaczenie, technikalia, testy
 
 
 SPECJALNE PODZIĘKOWANIA DLA:
@@ -98,6 +101,7 @@ Luigi Auriemma - za stworzenie narzędzia ttarchext
 MerlinSVK - za stworzenie narzędzia w celu exportu i importu czcionek
 Den Em + pashok6798 - for making TTG TOOLS
 Telltale Modding Group - za pomoc przy skryptach lua
+Wszystkich testerów, którzy pomagali w sprawdzaniu portu spolszczenia!
 
 
 Ten port nie powstałby gdyby nie Norek <3, dziękuję.
