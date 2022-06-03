@@ -2,4 +2,102 @@
 Port spolszczenia stworzonego przez grajpopolsku.pl. Stworzony poprzez zgodę autorów.
 
 
-Jest to mod, portujący spolszczenia z pierwotnych gier Telltale Games: TWD S1,S2,S3,S4,400 DNI,MICHONNE. A także tłumaczący nowee menu jakie zostały dodane wraz z edycją definitywną.
+Jest to mod, portujący spolszczenia z pierwotnych gier Telltale Games: TWD S1,S2,S3,S4,400 DNI,MICHONNE. A także tłumaczący nowe menu jakie zostały dodane wraz z edycją definitywną.
+
+Autorzy:
+
+- Sezon 1 DEFINITIVE EDITION:
+Norek - Tłumaczenie i korekta i testy;
+Johnny - Obsługa techniczna i testy;
+Manuel Czaszka - Grafiki, tłumaczenie i testy;
+Luigi Auriemma - Narzędzia;
+Den Em - Narzędzia;
+mziab - Przygotowanie skryptu programu OmegaT i zaplecze techniczne;
+GimmyBreaker - Tłumaczenie, testy i zaplecze techniczne;
+Annica88 - Tłumaczenie i korekta;
+Machiner - Tłumaczenie i korekta;
+kilos53 - Tłumaczenie i testy;
+Khaes - Tłumaczenie i testy;
+adrianos - Testy;
+Kazu - Testy;
+Wuuu - Testy;
+Rolender - Testy;
+gibik - Testy;
+destroytheardor, CyDiPL, config, Michał W - inne;
+Prawy - Port tłumaczeń, grafiki, polskie czcionki, technikalia
+
+- Sezon 2 DEFINITIVE EDITION:
+Autorzy:
+GimmyBreaker – tłumaczenie, grafiki, czcionka, narzędzia, technikalia, testy
+Norek – tłumaczenie, korekta, testy
+Kasica – tłumaczenie
+Tipheret – tłumaczenie
+Semprini – tłumaczenie
+Bartek Musajew – tłumaczenie
+Leszczu – tłumaczenie
+skwierczyk – tłumaczenie
+Annica88 – tłumaczenie, korekta
+Natalia Gałuszkiewicz – korekta
+Kazu – testy
+Kubson – grafiki
+Manuel Czaszka – grafiki
+roobin – narzędzia
+Prawy - Port tłumaczeń, grafiki, polskie czcionki, technikalia
+
+- Sezon 3 DEFINITIVE EDITION:
+Norek – tłumaczenie, korekta, testy
+Talaith – tłumaczenie, korekta
+Hubert „Sniqs” Życiński – tłumaczenie
+Marta Kliber – tłumaczenie
+Natalia Przybysz – tłumaczenie
+Konrad Kołodziejczyk – tłumaczenie
+Piotr Zelek – tłumaczenie
+Dagmara Huras – pomoc w testach
+Annica – pomoc w testach
+MasterAlvaro – polskie fonty
+Michał Rzeźnik – grafiki
+Patryk Górski – grafiki do instalatora
+cienislaw – technikalia
+Prawy - Port tłumaczeń, grafiki, polskie czcionki, technikalia
+
+- Sezon 4 DEFINITIVE EDITION:
+Autorzy:
+Norek – tłumaczenie, korekta, testy
+Izzie – tłumaczenie, korekta, testy
+Fenlisek – tłumaczenie, korekta
+Hubert „Sniqs” Życiński – tłumaczenie
+Daniel „Pellet” Kłosiński – tłumaczenie
+Wiktor G – tłumaczenie
+Annica88 – testy
+Michał Rzeźnik – grafiki
+cienislaw – technikalia
+mziab – przystosowanie do CAT
+Prawy - Port tłumaczeń, technikalia
+
+- Michonne DEFINITIVE EDITION:
+Norek – tłumaczenie, korekta, testy
+Izzie – tłumaczenie, korekta, testy
+Quo – tłumaczenie
+Wade – tłumaczenie
+Trinity – tłumaczenie
+Querida – tłumaczenie
+Radek – tłumaczenie, testy
+geras – tłumaczenie
+JoelStobbart – tłumaczenie
+Talaith – tłumaczenie
+Patryk Górski – fonty, grafiki
+cienislaw – technikalia
+mziab – administracja repozytorium, pomoc w konfiguracji oprogramowania CAT
+Prawy - Port tłumaczeń, grafiki, polskie czcionki, technikalia
+
+
+SPECJALNE PODZIĘKOWANIA DLA:
+Norek - za zgodę w użyciu waszych spolszczeń
+mziab - za pomoc w skonfigurowaniu pod CAT
+Luigi Auriemma - za stworzenie narzędzia ttarchext
+MerlinSVK - za stworzenie narzędzia w celu exportu i importu czcionek
+Den Em + pashok6798 - for making TTG TOOLS
+Telltale Modding Group - za pomoc przy skryptach lua
+
+
+Ten port nie powstałby gdyby nie Norek <3, dziękuję.
