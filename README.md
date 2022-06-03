@@ -5,7 +5,7 @@ Port spolszczenia stworzonego przez grajpopolsku.pl. Stworzony za zgodą autoró
 Jest to mod, portujący spolszczenia z pierwotnych gier Telltale Games: TWD S1,S2,S3,S4,400 DNI,MICHONNE. A także tłumaczący nowe menu jakie zostały dodane wraz z edycją definitywną.
 
 UWAGA!!!
-W porcie spolszczenia mogą wystąpic nieprzetłumaczone teksty, brak tekstu w niektórych miejscach, błednie wyświetlany tekst(niezgodny z tym co się dzieje w fabule.) Wszystkie tego rodzaju błędy proszę o zgłaszanie w formie screenshota z krótkim opisie w jakim sezonie oraz odcinku dany błąd występuję, może być to również film. 
+W porcie spolszczenia mogą wystąpic nieprzetłumaczone teksty, brak tekstu w niektórych miejscach, błednie wyświetlany tekst(niezgodny z tym co się dzieje w fabule.) Wszystkie tego rodzaju błędy proszę o zgłaszanie w formie screenshota z krótkim opisem w jakim sezonie oraz odcinku dany błąd występuję, może być to również film. 
 ## Kontakt:
 - Discord: Prawy#3490
 - Forum GPP: https://grajpopolsku.pl/forum/memberlist.php?mode=viewprofile&u=14594
