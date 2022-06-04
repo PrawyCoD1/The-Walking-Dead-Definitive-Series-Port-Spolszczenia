@@ -23,7 +23,7 @@ W ostatnim sezonie nie ma spolszczonych grafik!!! Jesteś chętny i chcesz pomó
 - Github: https://github.com/PrawyCoD1/
 - Steam: https://steamcommunity.com/profiles/76561198055615111\
 
-Autorzy:
+## Autorzy:
 
 Sezon 1 DEFINITIVE EDITION:
 - Norek - Tłumaczenie i korekta i testy;
