@@ -21,9 +21,9 @@ W ostatnim sezonie nie ma spolszczonych grafik!!! Jesteś chętny i chcesz pomó
 
 ## Kontakt:
 - Discord: Prawy#3490
-- Forum GPP: https://grajpopolsku.pl/forum/memberlist.php?mode=viewprofile&u=14594
-- Github: https://github.com/PrawyCoD1/
-- Steam: https://steamcommunity.com/profiles/76561198055615111\
+- <a href="https://grajpopolsku.pl/forum/memberlist.php?mode=viewprofile&u=14594" rel="nofollow">Forum GPP</a>
+- <a href="https://github.com/PrawyCoD1/" rel="nofollow">Github</a>
+- <a href="https://steamcommunity.com/profiles/76561198055615111\" rel="nofollow">Steam</a>
 
 ## Autorzy:
 
