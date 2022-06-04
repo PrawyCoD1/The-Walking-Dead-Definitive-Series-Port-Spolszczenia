@@ -18,6 +18,7 @@ W ostatnim sezonie nie ma spolszczonych grafik!!! Jesteś chętny i chcesz pomó
 ## Znane problemy:
 - Podsumowanie wyborów w języku angielskim.
 - Grafiki w The Final Season w języku angielskim.
+- Nie przetłumaczone kilka tekstów w S1,S3
 
 ## Kontakt:
 - Discord: Prawy#3490
