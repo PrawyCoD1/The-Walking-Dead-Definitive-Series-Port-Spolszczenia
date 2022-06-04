@@ -1,6 +1,5 @@
-# The-Walking-Dead-Definitive-Series-Port-Spolszczenia
+# THE WALKING DEAD: THE TELLTALE DEFINITIVE SERIES 1.0
 Port spolszczenia stworzonego przez grajpopolsku.pl. Stworzony za zgodą autorów.
-
 
 Jest to mod, portujący spolszczenia z pierwotnych gier Telltale Games: TWD S1,S2,S3,S4,400 DNI,MICHONNE. A także tłumaczący nowe menu jakie zostały dodane wraz z edycją definitywną.
 
@@ -9,11 +8,20 @@ W porcie spolszczenia mogą wystąpic nieprzetłumaczone teksty, brak tekstu w n
 
 W ostatnim sezonie nie ma spolszczonych grafik!!! Jesteś chętny i chcesz pomóc z grafikami? Pisz na pv!
 
+## Znane problemy:
+- Podsumowanie wyborów w języku angielskim.
+- Grafiki w The Final Season w języku angielskim.
+
 ## Kontakt:
 - Discord: Prawy#3490
 - Forum GPP: https://grajpopolsku.pl/forum/memberlist.php?mode=viewprofile&u=14594
 - Github: https://github.com/PrawyCoD1/
-- Steam: https://steamcommunity.com/profiles/76561198055615111
+- Steam: https://steamcommunity.com/profiles/76561198055615111\
+
+## Instalacja:
+a) Na komputerze musi znajdować się zainstalowana gra The Walking Dead: The Telltale Definitive Series
+b) Upewnij się, że lokalizacja zainstalowanej gry jest prawidłowa. 
+c) Po wypakowaniu plików spolszczenia, możesz uruchomić grę.
 
 Autorzy:
 
