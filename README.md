@@ -19,9 +19,9 @@ W ostatnim sezonie nie ma spolszczonych grafik!!! Jesteś chętny i chcesz pomó
 - Steam: https://steamcommunity.com/profiles/76561198055615111\
 
 ## Instalacja:
-a) Na komputerze musi znajdować się zainstalowana gra The Walking Dead: The Telltale Definitive Series -
-b) Upewnij się, że lokalizacja zainstalowanej gry jest prawidłowa. -
-c) Po wypakowaniu plików spolszczenia, możesz uruchomić grę.
+- Na komputerze musi znajdować się zainstalowana gra The Walking Dead: The Telltale Definitive Series.
+- Wypakuj pliki do folderu Archives w katalogu gry.
+- Po wypakowaniu plików spolszczenia, możesz uruchomić grę.
 
 Autorzy:
 
@@ -112,7 +112,7 @@ DEFINITIVE MENU:
 
 
 SPECJALNE PODZIĘKOWANIA DLA:
-- Norek - za zgodę w użyciu waszych spolszczeń\n
+- Norek - za zgodę w użyciu waszych spolszczeń
 - mziab - za pomoc w skonfigurowaniu pod CAT
 - Luigi Auriemma - za stworzenie narzędzia ttarchext
 - MerlinSVK - za stworzenie narzędzia w celu exportu i importu czcionek
