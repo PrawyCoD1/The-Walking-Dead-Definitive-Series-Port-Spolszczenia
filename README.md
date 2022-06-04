@@ -111,7 +111,7 @@ DEFINITIVE MENU:
 - Prawy - tłumaczenie, technikalia, testy
 
 
-SPECJALNE PODZIĘKOWANIA DLA:
+## SPECJALNE PODZIĘKOWANIA DLA:
 - Norek - za zgodę w użyciu waszych spolszczeń
 - mziab - za pomoc w skonfigurowaniu pod CAT
 - Luigi Auriemma - za stworzenie narzędzia ttarchext
@@ -121,4 +121,4 @@ SPECJALNE PODZIĘKOWANIA DLA:
 - Wszystkich testerów, którzy pomagali w sprawdzaniu portu spolszczenia!
 
 
-Ten port nie powstałby gdyby nie Norek <3, dziękuję.
+### Ten port nie powstałby gdyby nie Norek <3, dziękuję.
