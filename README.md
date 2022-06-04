@@ -1,4 +1,6 @@
 # THE WALKING DEAD: THE TELLTALE DEFINITIVE SERIES 1.0
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/PrawyCod1/The-Walking-Dead-Definitive-Series-Port-Spolszczenia?color=blue&label=wersja)]([https://github.com/Telltale-Modding-Group/TelltaleModLauncher/releases](https://github.com/PrawyCoD1/The-Walking-Dead-Definitive-Series-Port-Spolszczenia/releases))
+[![Github All Releases](https://img.shields.io/github/downloads/PrawyCod1/The-Walking-Dead-Definitive-Series-Port-Spolszczenia/total?color=green&label=pobrania)](https://github.com/PrawyCoD1/The-Walking-Dead-Definitive-Series-Port-Spolszczenia/releases)  
 Port spolszczenia stworzonego przez grajpopolsku.pl. Stworzony za zgodą autorów.
 
 Jest to mod, portujący spolszczenia z pierwotnych gier Telltale Games: TWD S1,S2,S3,S4,400 DNI,MICHONNE. A także tłumaczący nowe menu jakie zostały dodane wraz z edycją definitywną.
