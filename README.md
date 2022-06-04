@@ -8,6 +8,11 @@ W porcie spolszczenia mogą wystąpic nieprzetłumaczone teksty, brak tekstu w n
 
 W ostatnim sezonie nie ma spolszczonych grafik!!! Jesteś chętny i chcesz pomóc z grafikami? Pisz na pv!
 
+## Instalacja:
+- Na komputerze musi znajdować się zainstalowana gra The Walking Dead: The Telltale Definitive Series.
+- Wypakuj pliki do folderu Archives w katalogu gry.
+- Po wypakowaniu plików spolszczenia, możesz uruchomić grę.
+
 ## Znane problemy:
 - Podsumowanie wyborów w języku angielskim.
 - Grafiki w The Final Season w języku angielskim.
@@ -17,11 +22,6 @@ W ostatnim sezonie nie ma spolszczonych grafik!!! Jesteś chętny i chcesz pomó
 - Forum GPP: https://grajpopolsku.pl/forum/memberlist.php?mode=viewprofile&u=14594
 - Github: https://github.com/PrawyCoD1/
 - Steam: https://steamcommunity.com/profiles/76561198055615111\
-
-## Instalacja:
-- Na komputerze musi znajdować się zainstalowana gra The Walking Dead: The Telltale Definitive Series.
-- Wypakuj pliki do folderu Archives w katalogu gry.
-- Po wypakowaniu plików spolszczenia, możesz uruchomić grę.
 
 Autorzy:
 
