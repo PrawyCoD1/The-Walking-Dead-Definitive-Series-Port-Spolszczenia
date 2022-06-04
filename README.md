@@ -1,4 +1,6 @@
 # THE WALKING DEAD: THE TELLTALE DEFINITIVE SERIES 1.0
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/PrawyCod1/The-Walking-Dead-Definitive-Series-Port-Spolszczenia?color=blue&label=wersja)]([https://github.com/Telltale-Modding-Group/TelltaleModLauncher/releases](https://github.com/PrawyCoD1/The-Walking-Dead-Definitive-Series-Port-Spolszczenia/releases))
+[![Github All Releases](https://img.shields.io/github/downloads/PrawyCod1/The-Walking-Dead-Definitive-Series-Port-Spolszczenia/total?color=green&label=pobrania)](https://github.com/PrawyCoD1/The-Walking-Dead-Definitive-Series-Port-Spolszczenia/releases)  
 Port spolszczenia stworzonego przez grajpopolsku.pl. Stworzony za zgodą autorów.
 
 Jest to mod, portujący spolszczenia z pierwotnych gier Telltale Games: TWD S1,S2,S3,S4,400 DNI,MICHONNE. A także tłumaczący nowe menu jakie zostały dodane wraz z edycją definitywną.
@@ -8,22 +10,23 @@ W porcie spolszczenia mogą wystąpic nieprzetłumaczone teksty, brak tekstu w n
 
 W ostatnim sezonie nie ma spolszczonych grafik!!! Jesteś chętny i chcesz pomóc z grafikami? Pisz na pv!
 
-## Znane problemy:
-- Podsumowanie wyborów w języku angielskim.
-- Grafiki w The Final Season w języku angielskim.
-
-## Kontakt:
-- Discord: Prawy#3490
-- Forum GPP: https://grajpopolsku.pl/forum/memberlist.php?mode=viewprofile&u=14594
-- Github: https://github.com/PrawyCoD1/
-- Steam: https://steamcommunity.com/profiles/76561198055615111\
-
 ## Instalacja:
 - Na komputerze musi znajdować się zainstalowana gra The Walking Dead: The Telltale Definitive Series.
 - Wypakuj pliki do folderu Archives w katalogu gry.
 - Po wypakowaniu plików spolszczenia, możesz uruchomić grę.
 
-Autorzy:
+## Znane problemy:
+- Podsumowanie wyborów w języku angielskim.
+- Grafiki w The Final Season w języku angielskim.
+- Nie przetłumaczone kilka tekstów w S1,S3
+
+## Kontakt:
+- Discord: Prawy#3490
+- <a href="https://grajpopolsku.pl/forum/memberlist.php?mode=viewprofile&u=14594" rel="nofollow">Forum GPP</a>
+- <a href="https://github.com/PrawyCoD1/" rel="nofollow">Github</a>
+- <a href="https://steamcommunity.com/profiles/76561198055615111\" rel="nofollow">Steam</a>
+
+## Autorzy:
 
 Sezon 1 DEFINITIVE EDITION:
 - Norek - Tłumaczenie i korekta i testy;
@@ -111,7 +114,7 @@ DEFINITIVE MENU:
 - Prawy - tłumaczenie, technikalia, testy
 
 
-SPECJALNE PODZIĘKOWANIA DLA:
+## SPECJALNE PODZIĘKOWANIA DLA:
 - Norek - za zgodę w użyciu waszych spolszczeń
 - mziab - za pomoc w skonfigurowaniu pod CAT
 - Luigi Auriemma - za stworzenie narzędzia ttarchext
@@ -121,4 +124,4 @@ SPECJALNE PODZIĘKOWANIA DLA:
 - Wszystkich testerów, którzy pomagali w sprawdzaniu portu spolszczenia!
 
 
-Ten port nie powstałby gdyby nie Norek <3, dziękuję.
+### Ten port nie powstałby gdyby nie Norek <3, dziękuję.
