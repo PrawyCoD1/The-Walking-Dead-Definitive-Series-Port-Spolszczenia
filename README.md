@@ -1,5 +1,6 @@
-# THE WALKING DEAD: THE TELLTALE DEFINITIVE SERIES 1.01
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/PrawyCoD1/The-Walking-Dead-Definitive-Series-Port-Spolszczenia?label=Wersja)]([https://github.com/Telltale-Modding-Group/TelltaleModLauncher/releases](https://github.com/PrawyCoD1/The-Walking-Dead-Definitive-Series-Port-Spolszczenia/releases))
+# THE WALKING DEAD: THE TELLTALE DEFINITIVE SERIES 1.0.2
+
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/PrawyCoD1/The-Walking-Dead-Definitive-Series-Port-Spolszczenia?label=Wersja)](<[https://github.com/Telltale-Modding-Group/TelltaleModLauncher/releases](https://github.com/PrawyCoD1/The-Walking-Dead-Definitive-Series-Port-Spolszczenia/releases)>)
 [![Github All Releases](https://img.shields.io/github/downloads/PrawyCod1/The-Walking-Dead-Definitive-Series-Port-Spolszczenia/total?color=green&label=pobrania)](https://github.com/PrawyCoD1/The-Walking-Dead-Definitive-Series-Port-Spolszczenia/releases)  
 Port spolszczenia stworzonego przez grajpopolsku.pl. Stworzony za zgodą autorów.
 
@@ -11,16 +12,18 @@ W porcie spolszczenia mogą wystąpic nieprzetłumaczone teksty, brak tekstu w n
 W ostatnim sezonie nie ma spolszczonych grafik! Jesteś chętny i chcesz pomóc z grafikami? Pisz na prywatną wiadomość!
 
 ## Instalacja:
+
 - Na komputerze musi znajdować się zainstalowana gra The Walking Dead: The Telltale Definitive Series.
 - Wypakuj pliki do folderu `Archives` w katalogu gry.
 - Po wypakowaniu plików spolszczenia możesz uruchomić grę.
 
 ## Znane problemy:
+
 - Podsumowanie wyborów jest w języku angielskim.
 - Grafiki w The Final Season są w języku angielskim.
-- S1O2, S2O3, S204, S2O5, S3O3 ma nieprzetłumaczone lub błędnie wyświetlane zdania.
 
 ## Kontakt:
+
 - Discord: `Prawy#3490`.
 - <a href="https://grajpopolsku.pl/forum/memberlist.php?mode=viewprofile&u=14594" rel="nofollow">Forum GPP</a>.
 - <a href="https://github.com/PrawyCoD1/" rel="nofollow">GitHub</a>.
@@ -29,6 +32,7 @@ W ostatnim sezonie nie ma spolszczonych grafik! Jesteś chętny i chcesz pomóc 
 ## Autorzy:
 
 Sezon 1 DEFINITIVE EDITION:
+
 - Norek – tłumaczenie i korekta i testy.
 - Johnny – obsługa techniczna i testy.
 - Manuel Czaszka – grafiki, tłumaczenie i testy.
@@ -49,6 +53,7 @@ Sezon 1 DEFINITIVE EDITION:
 - Prawy – port tłumaczeń, grafiki, polskie czcionki, technikalia, testy.
 
 Sezon 2 DEFINITIVE EDITION:
+
 - GimmyBreaker – tłumaczenie, grafiki, czcionka, narzędzia, technikalia, testy.
 - Norek – tłumaczenie, korekta, testy.
 - Kasica – tłumaczenie.
@@ -66,6 +71,7 @@ Sezon 2 DEFINITIVE EDITION:
 - Prawy – port tłumaczeń, grafiki, polskie czcionki, technikalia, testy.
 
 Sezon 3 DEFINITIVE EDITION:
+
 - Norek – tłumaczenie, korekta, testy.
 - Talaith – tłumaczenie, korekta.
 - Hubert „Sniqs” Życiński – tłumaczenie.
@@ -82,6 +88,7 @@ Sezon 3 DEFINITIVE EDITION:
 - Prawy – port tłumaczeń, grafiki, polskie czcionki, technikalia, testy.
 
 Sezon 4 DEFINITIVE EDITION:
+
 - Norek – tłumaczenie, korekta, testy.
 - Izzie – tłumaczenie, korekta, testy.
 - Fenlisek – tłumaczenie, korekta.
@@ -95,6 +102,7 @@ Sezon 4 DEFINITIVE EDITION:
 - Prawy – port tłumaczeń, technikalia.
 
 Michonne DEFINITIVE EDITION:
+
 - Norek – tłumaczenie, korekta, testy.
 - Izzie – tłumaczenie, korekta, testy.
 - Quo – tłumaczenie.
@@ -111,10 +119,11 @@ Michonne DEFINITIVE EDITION:
 - Prawy – port tłumaczeń, grafiki, polskie czcionki, technikalia, testy.
 
 DEFINITIVE MENU:
+
 - Prawy – tłumaczenie, technikalia, testy.
 
-
 ## SPECJALNE PODZIĘKOWANIA DLA:
+
 - Norek – za zgodę w użyciu waszych spolszczeń.
 - mziab – za pomoc w skonfigurowaniu pod CAT.
 - Luigi Auriemma – za stworzenie narzędzia ttarchext.
@@ -122,6 +131,5 @@ DEFINITIVE MENU:
 - Den Em + pashok6798 – for making TTG TOOLS.
 - Telltale Modding Group – za pomoc przy skryptach lua.
 - Wszystkich testerów, którzy pomagali w sprawdzaniu portu spolszczenia!
-
 
 ### Ten port nie powstałby gdyby nie Norek <3, dziękuję.
