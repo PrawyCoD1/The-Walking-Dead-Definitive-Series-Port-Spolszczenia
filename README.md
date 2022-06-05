@@ -18,7 +18,7 @@ W ostatnim sezonie nie ma spolszczonych grafik! Jesteś chętny i chcesz pomóc 
 ## Znane problemy:
 - Podsumowanie wyborów jest w języku angielskim.
 - Grafiki w The Final Season są w języku angielskim.
-- S1O2, S2O3, S204, S3O3 ma nieprzetłumaczone lub błędnie wyświetlane zdania.
+- S1O2, S2O3, S204, S2O5, S3O3 ma nieprzetłumaczone lub błędnie wyświetlane zdania.
 
 ## Kontakt:
 - Discord: `Prawy#3490`.
