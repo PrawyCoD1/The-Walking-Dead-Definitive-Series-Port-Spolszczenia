@@ -63,7 +63,7 @@ Sezon 2 DEFINITIVE EDITION:
 - Kubson – grafiki.
 - Manuel Czaszka – grafiki.
 - roobin – narzędzia.
-- Prawy – Port tłumaczeń, grafiki, polskie czcionki, technikalia, testy.
+- Prawy – port tłumaczeń, grafiki, polskie czcionki, technikalia, testy.
 
 Sezon 3 DEFINITIVE EDITION:
 - Norek – tłumaczenie, korekta, testy.
