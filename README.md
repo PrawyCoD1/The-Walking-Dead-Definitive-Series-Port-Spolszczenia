@@ -12,7 +12,7 @@ W porcie spolszczenia mogą wystąpic nieprzetłumaczone teksty, brak tekstu w n
 W ostatnim sezonie nie ma spolszczonych grafik! Jesteś chętny i chcesz pomóc z grafikami? Pisz na prywatną wiadomość!
 
  ## Link do spolszczenia:
-<a href="https://grajpopolsku.pl/forum/memberlist.php?mode=viewprofile&u=14594](https://github.com/PrawyCoD1/The-Walking-Dead-Definitive-Series-Port-Spolszczenia/releases/download/v1.0.2/TWD.TTDS.-.Port.Spolszczenia.od.GPP.zip" rel="nofollow">POBIERZ</a>
+<a href="https://github.com/PrawyCoD1/The-Walking-Dead-Definitive-Series-Port-Spolszczenia/releases/download/v1.0.2/TWD.TTDS.-.Port.Spolszczenia.od.GPP.zip" rel="nofollow">POBIERZ</a>
 
 ## Instalacja:
 
