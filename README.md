@@ -1,4 +1,4 @@
-# THE WALKING DEAD: THE TELLTALE DEFINITIVE SERIES 1.0.2
+# THE WALKING DEAD: THE TELLTALE DEFINITIVE SERIES 1.0.3
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/prawycod1/The-Walking-Dead-Definitive-Series-Port-Spolszczenia?display_name=tag&label=Wersja)](<[https://github.com/Telltale-Modding-Group/TelltaleModLauncher/releases](https://github.com/PrawyCoD1/The-Walking-Dead-Definitive-Series-Port-Spolszczenia/releases)>)
 [![Github All Releases](https://img.shields.io/github/downloads/PrawyCod1/The-Walking-Dead-Definitive-Series-Port-Spolszczenia/total?color=green&label=pobrania)](https://github.com/PrawyCoD1/The-Walking-Dead-Definitive-Series-Port-Spolszczenia/releases)  
@@ -11,7 +11,8 @@ W porcie spolszczenia mogą wystąpic nieprzetłumaczone teksty, brak tekstu w n
 
 W ostatnim sezonie nie ma spolszczonych grafik! Jesteś chętny i chcesz pomóc z grafikami? Pisz na prywatną wiadomość!
 
- ## Link do spolszczenia:
+## Link do spolszczenia:
+
 <a href="https://github.com/PrawyCoD1/The-Walking-Dead-Definitive-Series-Port-Spolszczenia/releases/download/v1.0.2/TWD.TTDS.-.Port.Spolszczenia.od.GPP.zip" rel="nofollow">POBIERZ</a>
 
 ## Instalacja:
@@ -24,6 +25,11 @@ W ostatnim sezonie nie ma spolszczonych grafik! Jesteś chętny i chcesz pomóc 
 
 - Podsumowanie wyborów jest w języku angielskim.
 - Grafiki w The Final Season są w języku angielskim.
+
+## Poprawki wprowadzone w aktualizacji:
+
+- Naprawa błędów tłumaczenia w sezonach: 1,3,4
+- Zmieniona grafika w pierwszym sezonie: "Nie Żyjesz"
 
 ## Kontakt:
 
