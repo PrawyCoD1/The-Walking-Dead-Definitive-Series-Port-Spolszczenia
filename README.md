@@ -26,11 +26,6 @@ W ostatnim sezonie nie ma spolszczonych grafik! Jesteś chętny i chcesz pomóc 
 - Podsumowanie wyborów jest w języku angielskim.
 - Grafiki w The Final Season są w języku angielskim.
 
-## Poprawki wprowadzone w aktualizacji:
-
-- Naprawa błędów tłumaczenia w sezonach: 1,3,4
-- Zmieniona grafika w pierwszym sezonie: "Nie Żyjesz"
-
 ## Kontakt:
 
 - Discord: `Prawy#3490`.
