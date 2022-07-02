@@ -1,4 +1,4 @@
-# THE WALKING DEAD: THE TELLTALE DEFINITIVE SERIES 1.0.4
+# THE WALKING DEAD: THE TELLTALE DEFINITIVE SERIES 1.0.5
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/PrawyCod1/The-Walking-Dead-Definitive-Series-Port-Spolszczenia?display_name=tag&label=Wersja)](<[https://github.com/Telltale-Modding-Group/TelltaleModLauncher/releases](https://github.com/PrawyCoD1/The-Walking-Dead-Definitive-Series-Port-Spolszczenia/releases)>)
 [![Github All Releases](https://img.shields.io/github/downloads/PrawyCod1/The-Walking-Dead-Definitive-Series-Port-Spolszczenia/total?color=green&label=pobrania)](https://github.com/PrawyCoD1/The-Walking-Dead-Definitive-Series-Port-Spolszczenia/releases)  
@@ -13,7 +13,7 @@ W ostatnim sezonie nie ma spolszczonych grafik! Jesteś chętny i chcesz pomóc 
 
 ## Link do spolszczenia:
 
-<a href="https://github.com/PrawyCoD1/The-Walking-Dead-Definitive-Series-Port-Spolszczenia/releases/download/v1.0.2/TWD.TTDS.-.Port.Spolszczenia.od.GPP.zip" rel="nofollow">POBIERZ</a>
+<a href="https://github.com/PrawyCoD1/The-Walking-Dead-Definitive-Series-Port-Spolszczenia/releases/download/v1.0.5/TWD.TTDS.-.Port.Spolszczenia.od.GPP.zip" rel="nofollow">POBIERZ</a>
 
 ## Instalacja:
 
@@ -24,7 +24,6 @@ W ostatnim sezonie nie ma spolszczonych grafik! Jesteś chętny i chcesz pomóc 
 ## Znane problemy:
 
 - Podsumowanie wyborów jest w języku angielskim.
-- Grafiki w The Final Season są w języku angielskim.
 
 ## Kontakt:
 
