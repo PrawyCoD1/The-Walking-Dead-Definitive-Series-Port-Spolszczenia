@@ -13,7 +13,10 @@ W ostatnim sezonie nie ma spolszczonych grafik! Jesteś chętny i chcesz pomóc 
 
 ## Link do spolszczenia:
 
-<a href="https://github.com/PrawyCoD1/The-Walking-Dead-Definitive-Series-Port-Spolszczenia/releases/download/v1.0.5/TWD.TTDS.-.Port.Spolszczenia.od.GPP.zip" rel="nofollow">POBIERZ</a>
+- Część 1 <a href="https://github.com/PrawyCoD1/The-Walking-Dead-Definitive-Series-Port-Spolszczenia/releases/latest/download/TWD.TTDS.-.Port.Spolszczenia.od.GPP.part.1.zip" rel="nofollow">POBIERZ</a>
+- Część 2 <a href="https://github.com/PrawyCoD1/The-Walking-Dead-Definitive-Series-Port-Spolszczenia/releases/latest/download/TWD.TTDS.-.Port.Spolszczenia.od.GPP.part.2.zip" rel="nofollow">POBIERZ</a>
+
+**OBIE CZĘSCI WYMAGANE ŻEBY SPOLSZCZENIE DZIAŁAŁO**
 
 ## Instalacja:
 
