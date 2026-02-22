@@ -26,6 +26,7 @@ W ostatnim sezonie nie ma spolszczonych grafik! Jesteś chętny i chcesz pomóc 
 
 ## Znane problemy:
 Grafiki w The Final Season w języku angielskim.
+Nieprzetłumaczone kwestie w Sezon 2 Odc 4
 
 ## Kontakt:
 
